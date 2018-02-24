@@ -4,7 +4,7 @@ Models of robotic system that design in V-REP system to solve pathfinding and mo
 
 A few example models that I've developed on the last course in the University. [V-REP][vrep] system is used to solve inverse and forward kinematics tasks of together motion two robots. The designed models are showing the features of the system for modeling pathfinding and robot motion dynamics in the space with obstacles. It are simulation of the real robotic system that need to get x-ray photos of a detail.
 
-![The scheme of the modeling system][images/full-model.png]
+![The scheme of the modeling system](images/full-model.png)
 
 These models consist of two main robots is a manipulator (in the picture it is a "1") and a frame robot ("2"). Also has a table robot ("3") that rotates a detail ("4").
 
@@ -19,7 +19,7 @@ And [here](images/) you can find some funny images of ones. The video of a scan 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 [vrep]: http://www.v-rep.eu/
