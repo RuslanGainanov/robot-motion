@@ -15,7 +15,7 @@
 12. man_6j_gui_convex - модель робота-манипулятора: 6 сочленений, GUI с градусами, элементы рамки в выпуклой оболочке, визуализация коллизий [Работает]
 13. man_pathfind_6j_ik_ompl_plane - модель робота-манипулятора: man_pathfind_6j_ik_ompl + белый график углов сочленений, модель крыла самолета (только визуализация), форма ввода точки цели (не работает) [Работает]
 14. man_and_frame__testFrame_bigJoints_proximity - модель робота-манипулятора: 6 сочленений, IK (не задействована), модель робота-рамки: 5 сочленений, IK, code: simGetConfigForTipPose+simGenerateIkPath, Venera, два больших призматических соединения с датчиком расстояния [Не работает]
-15. man_and_frame__testFrame_reflex_pathAroundVenera - модель робота-манипулятора + робота-рамки + Venera: man_and_frame__frame_tests_bigJoints_proximity + путь вокруг Венеры, и код: simRMLMoveToPosition [Не работает]
+15. man_and_frame__testFrame_reflex_pathAroundVenera - модель робота-манипулятора + робота-рамки + Venera: man_and_frame__frame_tests_bigJoints_proximity - + путь вокруг Венеры, и код: simRMLMoveToPosition [Не работает]
 16. man_and_frame__gui - все модели с GUI, неправильные коллекции для определения столкновений [Работает]
 17. man_and_frame__testTableRotate - все модели, тесты поворота стола до угла заданного добавленной кликом мышки точки [Не работает]
 18. man_and_frame__gui_rotateCamera - все модели, вращающаяся камера, GUI на некоторые действия, по этой модели снят основной ролик, proximity sensons для визуализации рентгена, связанная IK рамки и манипулятора [Работает]
