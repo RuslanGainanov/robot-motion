@@ -8,8 +8,7 @@ A few example models that I've developed on the last course in the University. [
 
 These models consist of two main robots is a manipulator (in the picture it is a "1") and a frame robot ("2"). Also has a table robot ("3") that rotates a detail ("4").
 
-All developed models is placed [here](v-rep%20models/) and its description is described [here].
-And [here](images/) you can find some funny images of ones. The video of a scan simulation of a detail is [here](https://youtu.be/yxw9i_CwjF0).
+All developed models is placed [here](v-rep%20models/). [Here](images/) you can find some _"funny"_ images of ones. The video of a scan simulation of a detail is [here](https://youtu.be/yxw9i_CwjF0).
 
 ## Built with
   - V-REP PRO EDU [3.4.0](http://www.coppeliarobotics.com/helpFiles/en/versionInfo.htm#3.4.0) _(April 6th 2017)_
